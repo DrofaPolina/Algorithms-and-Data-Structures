@@ -1,0 +1,3 @@
+/Users/polina/CLionProjects/bfs_shortest_route/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/polina/CLionProjects/bfs_shortest_route/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/polina/CLionProjects/bfs_shortest_route/cmake-build-debug/CMakeFiles/bfs_shortest_route.dir
